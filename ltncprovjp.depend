@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680677173 source:c:\users\user\downloads\documents\high code\ltncprovjp\main.cpp
+	<iostream>
+	<SDL.h>
+

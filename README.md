@@ -6,10 +6,10 @@ A small 2D, SDL2 Game written in C++ featuring....
 - Codeblocks which i'm currently using and you can look for the tutorial at: https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php
 
 - SDL of course, containing 4 compulsory library: 
-                                                  + https://github.com/libsdl-org/SDL/releases                                           
-                                                  + https://github.com/libsdl-org/SDL_image/releases
-                                                  + https://github.com/libsdl-org/SDL_ttf/releases
-                                                  + https://github.com/libsdl-org/SDL_mixer/releases
+1. + https://github.com/libsdl-org/SDL/releases                                           
+                                                  2. + https://github.com/libsdl-org/SDL_image/releases
+                                                  3. + https://github.com/libsdl-org/SDL_ttf/releases
+                                                  4. + https://github.com/libsdl-org/SDL_mixer/releases   
 
 
                                       

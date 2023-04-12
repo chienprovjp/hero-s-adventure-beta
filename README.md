@@ -7,9 +7,12 @@ A small 2D, SDL2 Game written in C++ featuring....
 
 - SDL of course, containing 4 compulsory library: 
 1. + https://github.com/libsdl-org/SDL/releases                                           
-                                                  2. + https://github.com/libsdl-org/SDL_image/releases
-                                                  3. + https://github.com/libsdl-org/SDL_ttf/releases
-                                                  4. + https://github.com/libsdl-org/SDL_mixer/releases   
+                                                  
+2. + https://github.com/libsdl-org/SDL_image/releases
+                                                  
+3. + https://github.com/libsdl-org/SDL_ttf/releases
+                                                 
+4. + https://github.com/libsdl-org/SDL_mixer/releases   
 
 
                                       

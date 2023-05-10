@@ -37,12 +37,12 @@ A small 2D, SDL2 Game written in C++ featuring young brave hero on the way to sl
 5. Lives:
 - If you die, you will respawn near your last death.
 - If you run out of your lives, you will re-start at the beginning of the map.
-6. Items and shops:
+6. Items/ shops/ chests:
 - 
 7. Day/night mechanism:
- 
+-
 8. Choices and paths:
-
+-
 
 
 

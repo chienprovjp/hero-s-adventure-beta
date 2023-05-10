@@ -42,7 +42,7 @@ A small 2D, SDL2 Game written in C++ featuring young brave hero on the way to sl
 7. Day/night mechanism:
 -
 8. Choices and paths:
--
+- 
 
 
 
